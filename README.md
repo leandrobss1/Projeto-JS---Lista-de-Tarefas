@@ -1,0 +1,1 @@
+Projeto feito com layout simples e mais focado no código javascript para interação com as tarefas a serem adicionadas ou removidas em conjunto com a atualização do seu localStorage entre a adição e remoção!
