@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Prompt", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 10rem;
+}
+
+main {
+  border: 0.1rem solid rgb(70, 68, 68);
+  width: 19.75rem;
+  padding: 2rem;
+  background-color: rgb(221, 221, 221);
+}
+
+button {
+  color: rgb(8, 8, 8);
+  background-color: rgb(117, 107, 107);
+  border-radius: 15px;
+  padding: 0.2rem;
+  margin: 0 0.7rem;
+}
+
+form {
+  display: flex;
+  margin-bottom: 1rem;
+  justify-content: space-between;
+}
+
+h1 {
+  padding: 1rem 0.1rem;
+}
+
+ul {
+  list-style: none;
+}
